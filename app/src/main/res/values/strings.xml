@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusStartProject</string>
+    <string name="empty_not_saved">Вы не ввели запрос, запрос не сохранён</string>
+</resources>
